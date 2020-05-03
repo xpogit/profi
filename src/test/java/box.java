@@ -10,7 +10,12 @@ public class box {
         System.out.println("sss");
         System.out.println("YOYO MAMMA YOYO PAPPA");
         System.out.println("YOYO MAMMA YOYO PAPPA");
-        YNYNYNYNYNYNYNYNYNYNYNYNYNYNYYNYNYNYNYNNYNYNYNYYN;
+      //  YNYNYNYNYNYNYNYNYNYNYNYNYNYNYYNYNYNYNYNNYNYNYNYYN;
+
+        System.out.println("good");
+
+        int a=0;
+        System.out.println(0/a);
 
     }
 }
