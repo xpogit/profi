@@ -14,8 +14,9 @@ public class box {
 
         System.out.println("good");
 
-        int a=0;
-        System.out.println(0/a);
+        s;
+
+
 
     }
 }
