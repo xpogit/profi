@@ -11,7 +11,7 @@ public class box {
         System.out.println("YOYO MAMMA YOYO PAPPA");
         System.out.println("YOYO MAMMA YOYO PAPPA");
       //  YNYNYNYNYNYNYNYNYNYNYNYNYNYNYYNYNYNYNYNNYNYNYNYYN;
-s;
+
         System.out.println("good");
 
 
