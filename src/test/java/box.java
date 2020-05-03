@@ -7,7 +7,7 @@ public class box {
     public void proTest() {
 
         System.out.println("AAAAAAAAAAAAAAAAAAA");
-        System.out.println(sss);
+        System.out.println("sss");
 
     }
 }
